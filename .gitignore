@@ -1,0 +1,3 @@
+.env
+.spotify_tokens.json
+__pycache__/
